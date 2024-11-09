@@ -27,7 +27,6 @@ else:
     print(f"{num} არ იყოფა 3-ზე.")
 
 # 3
-# 1
 def is_divisible_by_5(number):
     if number % 5 == 0:
         return True
